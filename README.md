@@ -16,6 +16,12 @@ Overall, this chat application is a great example of how to build a responsive, 
 
 
 
+![Screenshot (118)](https://user-images.githubusercontent.com/117345772/229415311-ff59acf7-1bf4-4fb1-b209-a06b733f85ed.png)
+
+
+
+![Screenshot (119)](https://user-images.githubusercontent.com/117345772/229415322-c29a855e-4ec9-4d9d-b3e6-8c541de40c26.png)
+
 
 ## Tech Stack
 
